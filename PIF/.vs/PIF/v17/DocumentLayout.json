@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{F995755E-18FB-3358-60A3-53DD325B3C8F}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\movements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F995755E-18FB-3358-60A3-53DD325B3C8F}|Assembly-CSharp.csproj|C:\\dev\\school\\prog\\PFI\\PIF\\assets\\code\\spin-me-around-around.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F995755E-18FB-3358-60A3-53DD325B3C8F}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\spin-me-around-around.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F995755E-18FB-3358-60A3-53DD325B3C8F}|Assembly-CSharp.csproj|C:\\dev\\school\\prog\\PFI\\PIF\\assets\\code\\quadgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F995755E-18FB-3358-60A3-53DD325B3C8F}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\quadgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F995755E-18FB-3358-60A3-53DD325B3C8F}|Assembly-CSharp.csproj|C:\\dev\\school\\prog\\PFI\\PIF\\assets\\code\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F995755E-18FB-3358-60A3-53DD325B3C8F}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movements.cs",
+              "DocumentMoniker": "C:\\dev\\school\\prog\\PFI\\PIF\\Assets\\Code\\Movements.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\Movements.cs",
+              "ToolTip": "C:\\dev\\school\\prog\\PFI\\PIF\\Assets\\Code\\Movements.cs",
+              "RelativeToolTip": "Assets\\Code\\Movements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:58:03.412Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -46,40 +55,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Movements.cs",
-              "DocumentMoniker": "C:\\dev\\school\\prog\\PFI\\PIF\\Assets\\Code\\Movements.cs",
-              "RelativeDocumentMoniker": "Assets\\Code\\Movements.cs",
-              "ToolTip": "C:\\dev\\school\\prog\\PFI\\PIF\\Assets\\Code\\Movements.cs",
-              "RelativeToolTip": "Assets\\Code\\Movements.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T22:04:43.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "spin-me-around-around.cs",
-              "DocumentMoniker": "C:\\dev\\school\\prog\\PFI\\PIF\\Assets\\Code\\spin-me-around-around.cs",
-              "RelativeDocumentMoniker": "Assets\\Code\\spin-me-around-around.cs",
-              "ToolTip": "C:\\dev\\school\\prog\\PFI\\PIF\\Assets\\Code\\spin-me-around-around.cs",
-              "RelativeToolTip": "Assets\\Code\\spin-me-around-around.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\dev\\school\\prog\\PFI\\PIF\\Assets\\Code\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\CameraController.cs",
+              "ToolTip": "C:\\dev\\school\\prog\\PFI\\PIF\\Assets\\Code\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Code\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T21:57:47.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QuadGen.cs",
-              "DocumentMoniker": "C:\\dev\\school\\prog\\PFI\\PIF\\Assets\\Code\\QuadGen.cs",
-              "RelativeDocumentMoniker": "Assets\\Code\\QuadGen.cs",
-              "ToolTip": "C:\\dev\\school\\prog\\PFI\\PIF\\Assets\\Code\\QuadGen.cs",
-              "RelativeToolTip": "Assets\\Code\\QuadGen.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T21:07:56.302Z"
+              "WhenOpened": "2024-11-25T17:18:07.06Z",
+              "EditorCaption": ""
             }
           ]
         }
